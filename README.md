@@ -27,7 +27,7 @@ print the characters and its huffmancode.
 Developed by : RANJANI A
 Register no  : 212223230170
 ```
-```
+```Python
 # expt-11-huffman coding
 
 # Step 1: Get the input string
